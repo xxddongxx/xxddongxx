@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=xxddongxx's&fontSize=70&animation=fadeIn&&fontAlignY=30&desc=Github%20Profile&descAlignY=54&descSize=50&descAlign=70)
 
 
 # 👍SKILLS
